@@ -17,8 +17,4 @@
   "effect.batrachology.hemoglucide": "Hemoglucide",
   "effect.batrachology.pyroclasm": "Pyroclasm",
   "effect.batrachology.halotoxin": "Halotoxin",
-
-  "death.attack.batrachotoxin": "%1$s was poisoned by a dart frog",
-  "death.attack.aureotoxin": "%1$s was struck down by a golden frog",
-  "death.attack.pyroclasm": "%1$s was burned by a fiery frog"
 }
