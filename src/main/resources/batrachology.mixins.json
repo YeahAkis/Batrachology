@@ -1,0 +1,25 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "org.notionsmp.batrachology.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "batrachology.refmap.json",
+  "mixins": [
+    "cryostasis.LivingEntityMixin",
+    "cryostasis.LookControlMixin",
+    "cryostasis.MobMixin",
+    "cryostasis.PathNavigationMixin"
+  ],
+  "client": [
+    "CustomHeadLayerMixin",
+    "cryostasis.CameraMixin",
+    "cryostasis.KeyboardHandlerMixin",
+    "cryostasis.MouseHandlerMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "entity.batrachology.poison_dart_frog": "Poison Dart Frog",
+
+  "item.batrachology.azure_frog_bowl": "Azure Poison Dart Frog in a Bowl",
+  "item.batrachology.bumblebee_frog_bowl": "Bumblebee Poison Dart Frog in a Bowl",
+  "item.batrachology.green_black_frog_bowl": "Green and Black Poison Dart Frog in a Bowl",
+  "item.batrachology.golden_frog_bowl": "Golden Poison Dart Frog in a Bowl",
+  "item.batrachology.strawberry_frog_bowl": "Strawberry Poison Dart Frog in a Bowl",
+  "item.batrachology.fiery_frog_bowl": "Fiery Poison Dart Frog in a Bowl",
+  "item.batrachology.nominal_frog_bowl": "Nominal Poison Dart Frog in a Bowl",
+  "item.batrachology.akis_frog_bowl": "Akis Poison Dart Frog in a Bowl",
+
+  "effect.batrachology.cryostasis": "Cryostasis",
+  "effect.batrachology.batrachotoxin": "Batrachotoxin",
+  "effect.batrachology.melanotoxin": "Melanotoxin",
+  "effect.batrachology.aureotoxin": "Aureotoxin",
+  "effect.batrachology.hemoglucide": "Hemoglucide",
+  "effect.batrachology.pyroclasm": "Pyroclasm",
+  "effect.batrachology.halotoxin": "Halotoxin",
+
+  "death.attack.batrachotoxin": "%1$s was poisoned by a dart frog",
+  "death.attack.aureotoxin": "%1$s was struck down by a golden frog",
+  "death.attack.pyroclasm": "%1$s was burned by a fiery frog"
+}
